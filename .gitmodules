@@ -1,0 +1,18 @@
+[submodule "hakoniwa-drone-core"]
+	path = hakoniwa-drone-core
+	url = https://github.com/toppers/hakoniwa-drone-core.git
+[submodule "ardupilot"]
+	path = ardupilot
+	url = https://github.com/ArduPilot/ardupilot.git
+[submodule "hakoniwa-unity-drone"]
+	path = hakoniwa-unity-drone
+	url = https://github.com/hakoniwalab/hakoniwa-unity-drone.git
+[submodule "hakoniwa-unity-drone-model"]
+	path = hakoniwa-unity-drone-model
+	url = https://github.com/toppers/hakoniwa-unity-drone-model.git
+[submodule "hakoniwa-unreal-drone"]
+	path = hakoniwa-unreal-drone
+	url = https://github.com/hakoniwalab/hakoniwa-unreal-drone.git
+[submodule "hakoniwa-px4sim"]
+	path = hakoniwa-px4sim
+	url = https://github.com/toppers/hakoniwa-px4sim.git
