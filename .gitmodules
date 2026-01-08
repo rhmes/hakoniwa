@@ -16,3 +16,9 @@
 [submodule "hakoniwa-px4sim"]
 	path = hakoniwa-px4sim
 	url = https://github.com/toppers/hakoniwa-px4sim.git
+[submodule "hakoniwa-core-pro"]
+	path = hakoniwa-core-pro
+	url = https://github.com/hakoniwalab/hakoniwa-core-pro.git
+[submodule "hakoniwa-webserver"]
+	path = hakoniwa-webserver
+	url = https://github.com/toppers/hakoniwa-webserver.git
